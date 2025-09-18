@@ -32,6 +32,6 @@ Services:
 Screenies:
 
 ![](static/screenshot-2025-09-18-122721.png)
-![](static/screenshot-2025-09-18-122752.png
+![](static/screenshot-2025-09-18-122752.png)
 ![](static/screenshot-2025-09-18-123245.png)
 ![](static/screenshot-2025-09-18-123424.png)
