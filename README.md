@@ -85,7 +85,7 @@ Investition:
 
 ![](static/gwdg-ki-inv.png)
 
-Screenies:
+### Screenies
 
 ![](static/screenshot-2025-09-18-122721.png)
 ![](static/screenshot-2025-09-18-122752.png)
